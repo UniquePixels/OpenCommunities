@@ -1,3 +1,8 @@
+[![Open Communities Code of Conduct](assets/code-of-condct.svg)](https://github.com/UniquePixels/OpenCommunities)
+
+> [!NOTE]
+> This project is aligned with the [Open Communities](https://github.com/UniquePixels/OpenCommunities) initiative and has adopted the following code of conduct.
+
 # Code of Conduct
 
 We take pride in creating quality open code and open communities. We are committed to providing a welcoming and inspiring community where our members create amazing projects and help each other grow.
