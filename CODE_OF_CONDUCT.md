@@ -1,4 +1,4 @@
-[![Open Communities Code of Conduct](https://raw.githubusercontent.com/UniquePixels/OpenCommunities/main/assets/code-of-condct.svg)](https://github.com/UniquePixels/OpenCommunities)
+[![Open Communities Code of Conduct](https://raw.githubusercontent.com/UniquePixels/OpenCommunities/main/assets/code-of-conduct.svg)](https://github.com/UniquePixels/OpenCommunities)
 
 > [!NOTE]
 > This project is aligned with the [Open Communities](https://github.com/UniquePixels/OpenCommunities) initiative and has adopted the following code of conduct.

@@ -1,6 +1,6 @@
 # Open Communities
 
-![Open Communities Logo](assets/code-of-condct.svg)
+![Open Communities Logo](assets/code-of-conduct.svg)
 
 A collaborative effort to define and maintain standards that make open-source projects and communities truly *open*, **inclusive**, and **respectful**.
 
@@ -21,7 +21,7 @@ The core document for this repository is the [Code of Conduct](./CODE_OF_CONDUCT
 ```
 assets/
   badge.svg          # badge for other repos to display
-  code-of-condct.svg # project logo
+  code-of-conduct.svg # project logo
 CODE_OF_CONDUCT.md   # primary code of conduct document
 README.md            # this overview file
 ```
